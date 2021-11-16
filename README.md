@@ -5,3 +5,5 @@ I am defently NOT responsible for your actions, these are bad to pull of and sho
 Peoples tell me that i am a retard guy called "codingguy" who annoys users when he / she got time 
 HOWEVER i dont got the time to do such things. i defently have better stuff to do in my freetime.
 Maybe i add more shit in this aboutme later
+
+if you want to buy a private tool i create for oyu where i give perms to sell it contact me on discord: Ghost1337#2857
