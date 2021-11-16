@@ -1,9 +1,4 @@
 # aboutme
-Im a cool person that like to push out some repos that are a bit shady but they are only for educational use.
-You can reach out to me on  a anonymous chat. after getting in touch with me, i might be abe to chat wit ya but i dont rly care much about the shit i create.
-I am defently NOT responsible for your actions, these are bad to pull of and should only be used as a education :)
-Peoples tell me that i am a retard guy called "codingguy" who annoys users when he / she got time 
-HOWEVER i dont got the time to do such things. i defently have better stuff to do in my freetime.
-Maybe i add more shit in this aboutme later
+All my projects that I create and publish on Github are meant for people to learn from and apply their learned knowledge. The best way to learn is to see the code and syntax of a language, understand it and reproduce it in your own project. I accept no liability and will not be responsible for any damage caused by my projects to certain users. I am responsible for the functionality of my projects but stay out of it if people use them in a way I don't want them to be used. There is unfortunately no good way to control this but common sense is an important thing and use should be with the permission of the people involved, if at all.
 
 if you want to buy a private tool i create for oyu where i give perms to sell it contact me on discord: Ghost1337#2857
