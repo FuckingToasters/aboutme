@@ -1,2 +1,11 @@
 # aboutme
-All my projects that I create and publish on Github are meant for people to learn from and apply their learned knowledge. The best way to learn is to see the code and syntax of a language, understand it and reproduce it in your own project. I accept no liability and will not be responsible for any damage caused by my projects to certain users. I am responsible for the functionality of my projects but stay out of it if people use them in a way I don't want them to be used. There is unfortunately no good way to control this but common sense is an important thing and use should be with the permission of the people involved, if at all.
+I am a 21 year old programmer from Germany. I program for more than a Year with Python.
+I like to create requests or selenium based Programs, that could be in some way related to Discord.
+In the near future i will also  work on Programs, that are also related to other Socialmedia Platforms.
+Please dont expect me to create something big in less time than i need for good Programs. I only code in my freetime.
+The Community i built so far is intressted in Tools related to Discord that might help them to learn about their API in the best way possible.
+I not want to only stick with Discord and i will (if i got enough time) add Tools for other Socialmedia Platforms an example would be following:
+"TikTok, Twitter, YouTube, Telegram, Guilded & more
+
+Regards,
+FuckingToasters
